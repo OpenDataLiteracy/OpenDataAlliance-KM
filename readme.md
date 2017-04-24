@@ -1,7 +1,6 @@
 Instructions for creating a new internship repository:
 
-1. Fork this repository
-2. Rename the repository
+1. Clone this repository
 2. Modify the `readme.md` to include a brief description of the project including a link to its sponsors.
 3. Add issues for the intern (or candidate) to complete.
 
