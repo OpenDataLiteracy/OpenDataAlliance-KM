@@ -20,11 +20,11 @@ Seattle would likely be the best host, but the state, and City of Olympia would 
 ## Timeline:
 
 - Deadline for `Plan of Work`: 
- - Monday, June 11;
+  - Monday, June 11;
 - 2 Blog Posts to be posted on ODL Medium blog (https://medium.com/open-data-literacy):
- - July 11
- - August 8
+  - July 11
+  - August 8
 - 1x End of the Year Presentation: 
- - Date TBD late August;
+  - Date TBD late August;
 - Weekly updates / progress reports, etc: 
- - Fridays each week of internship
+  - Fridays each week of internship
