@@ -67,10 +67,13 @@ At the end of the project, I will submit well-documented code and a standards do
 
 In broad strokes, these are the different things we intend to undertake as part of this project.
 
-Weeks 1-2: Set up interviews; collect datasets; conduct interviews; project planning and logistics
-Weeks 3-4: Conduct interviews; clean data; conduct cursory analyses; write blog post
-Weeks 5-6: Start work on reproducible visualizations; review interview data--understand and articulate needs of new ODA signatories
-Weeks 7-8: Draft of final projects (visualizations/backend code/charter); final blog post; structure/goals for next ODA meeting
+- Weeks 1-2: Set up interviews; collect datasets; conduct interviews; project planning and logistics
+
+- Weeks 3-4: Conduct interviews; clean data; conduct cursory analyses; write blog post
+
+- Weeks 5-6: Start work on reproducible visualizations in Tableau; review interview data--understand and articulate needs of new ODA signatories; draft appendices documents for charter
+
+- Weeks 7-8: Draft of final projects (visualizations/backend code/charter); final blog post; structure/goals for next ODA meeting
 
 **TODOs**
 
