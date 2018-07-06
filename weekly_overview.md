@@ -25,3 +25,15 @@ M+W+R: Began cleaning data
 F: Gained access to database
 
 F: Used some design thinking/clustering to foreground important issues from interview
+
+**Week 3:**
+
+M: Updated plan of work document
+
+M+T: Read about Sunlight Foundation's previous NLP/LDA analysis
+
+M+T+F: Interviewed 4 subjects
+
+R+F: Implemented Bag of Words model and basic LDA topic modeling
+
+F: Completed design thinking/clustering session for second round of interviews
