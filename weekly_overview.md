@@ -1,6 +1,6 @@
-### Weekly Overview
+# Weekly Overview
 
-**Week 1:**
+##Week 1:
 
 M: Introductions--meet the team; get accounts set up; develop project plan
 
@@ -12,7 +12,7 @@ R: Played with new data; scheduled interviews with Champions, external stakehold
 
 F: Establish project scope; on campus discussion with ODL group; revised interview questions
 
-**Week 2:**
+##Week 2:
 
 M+T: Installed NLP libraries and toolkit for analysis; set up environment
 
@@ -26,7 +26,7 @@ F: Gained access to database
 
 F: Used some design thinking/clustering to foreground important issues from interview
 
-**Week 3:**
+##Week 3:
 
 M: Updated plan of work document
 
@@ -37,3 +37,21 @@ M+T+F: Interviewed 4 subjects
 R+F: Implemented Bag of Words model and basic LDA topic modeling
 
 F: Completed design thinking/clustering session for second round of interviews
+
+##Week 4:
+
+M: Goodbye to David Doyle; introduction Jim Loter (new supervisor)
+
+M+T: Wrote and revised blog post for ODL Medium Account
+
+T+W+R: Interviews with open data enthusiasts and PRO
+
+R: Trip to Olympia
+
+M+T+W: Further cleaning data in Seattle dataset and optimizing functions
+
+R: Clean and condense code; restructure architecture
+
+R+F: Ingest other datasets into analysis pipeline and test for functionality
+
+F: Set up CSV export from ipython notebook for later analysis in Tableau
