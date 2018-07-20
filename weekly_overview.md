@@ -44,14 +44,28 @@
 
 **M+T:** Wrote and revised blog post for ODL Medium Account
 
+**M+T+W:** Further cleaning data in Seattle dataset and optimizing functions
+
 **T+W+R:** Interviews with open data enthusiasts and PRO
 
 **R:** Trip to Olympia; progress report with Will Saunders; interviews with Sean Krier et al.
-
-**M+T+W:** Further cleaning data in Seattle dataset and optimizing functions
 
 **R:** Clean and condense code; restructure architecture
 
 **R+F:** Ingest other datasets into analysis pipeline and test for functionality
 
 **F:** Set up CSV export from ipython notebook for later analysis in Tableau
+
+## Week 5:
+
+**M:** Set up beginning Tableau visualizations for project
+
+**M+T+W+R+F:** Work on word2vec implementation; generate word vectors and reduce dimensionality
+
+**T+R:** Interviews with open data enthusiasts and PRO at King County and other institutions
+
+**R:** Completed design thinking/clustering session for third round of interviews
+
+**R:** Discuss final project sustainability and hosting with Will; investigate options other than Tableau
+
+**F:** Create detailed deliverable outline; work on bi- and tri-gram implementation & named entities with word2vec
