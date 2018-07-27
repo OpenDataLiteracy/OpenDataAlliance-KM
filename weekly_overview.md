@@ -69,3 +69,15 @@
 **R:** Discuss final project sustainability and hosting with Will; investigate options other than Tableau
 
 **F:** Create detailed deliverable outline; work on bi- and tri-gram implementation & named entities with word2vec
+
+## Week 6:
+
+**M+T+W+R+F:** Organize pipeline notebook and investigate visualization tools (other than Tableau)
+
+**T:** Consolidate final interviews with Leslie
+
+**W:** Meeting with city Open Data team and discuss current issues; work with Leslie to understand valuable datasets
+
+**R:** Data champions meeting; split pipeline notebook into visualization notebook
+
+**R+F:** Export csvs for all relevant files from pipeline; implement visualizations
