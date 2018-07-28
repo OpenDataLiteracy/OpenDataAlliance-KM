@@ -78,6 +78,6 @@
 
 **W:** Meeting with city Open Data team and discuss current issues; work with Leslie to understand valuable datasets
 
-**R:** Data champions meeting; split pipeline notebook into visualization notebook
+**R:** Data champions meeting; split pipeline notebook into visualization notebook; thematic clustering session for LDA topics
 
 **R+F:** Export csvs for all relevant files from pipeline; implement visualizations
