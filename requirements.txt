@@ -51,7 +51,7 @@ pysocks==1.6.8
 python-dateutil==2.7.3
 pytz==2018.5
 pyyaml==3.13
-readline==7.0
+#readline==7.0  - removing this so binder works
 requests==2.19.1
 s3transfer==0.1.13
 scipy==1.1.0
