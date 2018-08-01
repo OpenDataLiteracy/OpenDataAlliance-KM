@@ -2,7 +2,7 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 asn1crypto==0.24.0
-blas
+#blas==1.0 - trying to remove this
 bokeh==0.13.0
 boto==2.49.0
 boto3==1.7.62
