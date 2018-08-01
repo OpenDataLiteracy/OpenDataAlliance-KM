@@ -22,7 +22,7 @@ jinja2==2.10
 jmespath==0.9.3
 #jpeg==9c  - removing this so binder works
 kiwisolver==1.0.1
-libcxx==4.0.1
+#libcxx==4.0.1  - removing this so binder works
 libcxxabi==4.0.1
 libedit==3.1.20170329
 libffi==3.2.1
