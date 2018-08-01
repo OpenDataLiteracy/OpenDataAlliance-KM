@@ -20,7 +20,7 @@ idna==2.7
 intel-openmp==2018.0.3
 jinja2==2.10
 jmespath==0.9.3
-jpeg==9c
+#jpeg==9c  - removing this so binder works
 kiwisolver==1.0.1
 libcxx==4.0.1
 libcxxabi==4.0.1
