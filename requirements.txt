@@ -31,7 +31,7 @@ kiwisolver==1.0.1
 #libtiff==4.0.9
 markupsafe==1.0
 matplotlib==2.2.2
-#mkl==2018.0.3
+mkl==2018.0.3
 #mkl_fft==1.0.4  - removing this so binder works
 #mkl_random==1.0.1
 #ncurses==6.1  - removing this so binder works
@@ -66,4 +66,4 @@ wheel==0.31.1
 wordcloud==1.4.1
 #xz==5.2.4  - removing this so binder works
 #yaml==0.1.7
-zlib==1.2.11
+#zlib==1.2.11
