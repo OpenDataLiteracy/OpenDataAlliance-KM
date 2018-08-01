@@ -2,12 +2,12 @@
 # $ conda create --name <env> --file <this file>
 # platform: osx-64
 asn1crypto==0.24.0
-#blas==1.0 - trying to remove this
+#blas==1.0 - removing this so binder works
 bokeh==0.13.0
 boto==2.49.0
 boto3==1.7.62
 botocore==1.10.62
-ca-certificates==2018.4.16
+#ca-certificates==2018.4.16 - removing this so binder works
 certifi==2018.4.16
 cffi==1.11.5
 chardet==3.0.4
