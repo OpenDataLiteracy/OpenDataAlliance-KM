@@ -32,8 +32,8 @@ kiwisolver==1.0.1
 markupsafe==1.0
 matplotlib==2.2.2
 mkl==2018.0.3
-mkl_fft==1.0.4
-mkl_random==1.0.1
+#mkl_fft==1.0.4  - removing this so binder works
+#mkl_random==1.0.1
 ncurses==6.1
 numpy==1.15.0
 numpy-base==1.15.0
