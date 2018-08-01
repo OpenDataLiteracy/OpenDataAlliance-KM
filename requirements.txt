@@ -14,7 +14,7 @@ chardet==3.0.4
 cryptography==2.2.2
 cycler==0.10.0
 docutils==0.14
-freetype==2.9.1
+#freetype==2.9.1 - removing this so binder works
 gensim==3.4.0
 idna==2.7
 intel-openmp==2018.0.3
