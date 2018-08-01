@@ -36,7 +36,7 @@ mkl==2018.0.3
 #mkl_random==1.0.1
 #ncurses==6.1  - removing this so binder works
 numpy==1.15.0
-numpy-base==1.15.0
+#numpy-base==1.15.0  - removing this so binder works
 olefile==0.45.1
 openssl==1.0.2o
 packaging==17.1
