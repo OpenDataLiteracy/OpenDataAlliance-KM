@@ -38,7 +38,7 @@ matplotlib==2.2.2
 numpy==1.15.0
 #numpy-base==1.15.0  - removing this so binder works
 olefile==0.45.1
-#openssl==1.0.2o
+#openssl==1.0.2  - removing this so binder works
 packaging==17.1
 pandas==0.23.3
 pillow==5.2.0
@@ -47,7 +47,7 @@ pycparser==2.18
 pyopenssl==18.0.0
 pyparsing==2.2.0
 pysocks==1.6.8
-python==3.6.6
+#python==3.6.6 - remove this because 3.6 is installed by default
 python-dateutil==2.7.3
 pytz==2018.5
 pyyaml==3.13
