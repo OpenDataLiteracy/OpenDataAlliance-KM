@@ -18,11 +18,12 @@ This will take two forms:
 - An interactive visual component (either Tableau or something else; see **Sustainability** below)
 
 **Description: ODA Guidebook**
+
 In addition, I will be helping Leslie develop the following components of the other half of the project:
 
 - Identifying valuable datasets (the one-sheet will provide some support for this)
 - Thematic distillation of interview topics (we've touched on this through the design thinking/clustering projects we do weekly)
-- Outreach and growth (specifically, compiling resources user-friendly for teaching yourself data analysis)
+- Outreach and growth (specifically, compiling user-friendly resources for teaching yourself data analysis)
 
 **Completion**
 Steps to complete final deliverables:
