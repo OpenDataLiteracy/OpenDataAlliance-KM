@@ -81,3 +81,15 @@
 **R:** Data champions meeting; split pipeline notebook into visualization notebook; thematic clustering session for LDA topics
 
 **R+F:** Export csvs for all relevant files from pipeline; implement visualizations
+
+## Week 7:
+
+**M+T+W+R:** Simplified code for visualizations
+
+**T+W:** Consolidated project documents into final outputs
+
+**T+W:** Researched hosting platform (Binder) and successfully hosted project
+
+**R:** Meeting with City of Seattle PROs
+
+**R+F:** Work on final presentation
