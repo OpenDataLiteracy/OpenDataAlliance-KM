@@ -93,3 +93,15 @@
 **R:** Meeting with City of Seattle PROs
 
 **R+F:** Work on final presentation
+
+## Week 8:
+
+**M+T+W+R:** Clean up code for visualization and pipeline notebooks; gather and annotated additional resources
+
+**M+T+W+R:** Work on presentation
+
+**T:** Debrief with Will
+
+**R:** Workshop presentation with Leslie
+
+**R+F:** Reorganize GitHub Repo; Deliver final presentation
