@@ -41,7 +41,7 @@ olefile==0.45.1
 #openssl==1.0.2  - removing this so binder works
 packaging==17.1
 pandas==0.23.3
-pillow==5.2.0
+pillow==8.3.2
 pip==10.0.1
 pycparser==2.18
 pyopenssl==18.0.0
