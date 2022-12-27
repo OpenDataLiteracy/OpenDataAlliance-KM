@@ -55,7 +55,7 @@ pyyaml==3.13
 requests==2.19.1
 s3transfer==0.1.13
 scipy==1.1.0
-setuptools==39.2.0
+setuptools==65.5.1
 six==1.11.0
 smart_open==1.6.0
 #sqlite==3.24.0  - removing this so binder works
